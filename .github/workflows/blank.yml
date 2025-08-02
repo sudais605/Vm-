@@ -18,4 +18,3 @@ jobs:
 
       - name: Run VPS
         run: curl -sSf https://sshx.io/get
-        run: python3 <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/24-7/refs/heads/main/24)
